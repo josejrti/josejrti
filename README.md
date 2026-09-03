@@ -24,7 +24,7 @@ Tenho interesse em **Programação, Desenvolvimento De Software, Algoritmos, Int
 
 ## 🛠️ Tecnologias
 
-<div align="center">
+<div align="left">
 
 <img src="https://skillicons.dev/icons?i=python,java,js,html,css,linux,git&theme=dark" />
 
