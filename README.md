@@ -24,6 +24,7 @@ Tenho interesse em **Programação, Desenvolvimento De Software, Algoritmos, Int
 
 <div align="left">
 
-<img src="https://skillicons.dev/icons?i=python,java,js,html,css,linux,git&theme=dark" />
-
+<img src="https://skillicons.dev/icons?i=python,java,js,html,css,tailwind&theme=light">
+<img src="https://skillicons.dev/icons?i=git,github,linux,arch,bash&theme=light">
+<img src="https://skillicons.dev/icons?i=vscode,eclipse,vim,figma&theme=light">
 </div>
