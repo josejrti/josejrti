@@ -2,9 +2,13 @@
 
 ### 💻 Estudante de Tecnologia da Informação | IFPE - Campus Palmares
 
-Sou estudante da área de **Tecnologia da Informação no Instituto Federal de Pernambuco (IFPE) - Campus Palmares**.
+Sou estudante de **Análise e Desenvolvimento de Sistemas** no Instituto Federal de Pernambuco (IFPE) - Campus Palmares.
 
-Tenho interesse em **Programação, Desenvolvimento De Software, Algoritmos, Inteligência Artificial, Linux**. Atualmente, estou construindo minha base em diferentes tecnologias e desenvolvendo projetos para colocar meus conhecimentos em prática.
+Atualmente, estou construindo minha base como desenvolvedor de software, colocando meus conhecimentos em prática por meio de projetos próprios e atividades acadêmicas. Neste momento, meu foco está no desenvolvimento web, área em que venho aprofundando meus conhecimentos e desenvolvendo projetos.
+
+Meu objetivo é construir uma base técnica sólida para atuar profissionalmente no desenvolvimento de software, criando sistemas funcionais, bem estruturados e seguindo boas práticas de desenvolvimento.
+
+Ao longo da minha trajetória, venho desenvolvendo conhecimentos em diferentes campos da tecnologia, como **Programação Orientada a Objetos, Estruturas de Dados, Banco de Dados, Inteligência Artificial e Machine Learning,** entre outros, conhecimentos que contribuem para minha formação como desenvolvedor. 
 
 
 ## 🚀 Sobre mim
@@ -20,13 +24,9 @@ Tenho interesse em **Programação, Desenvolvimento De Software, Algoritmos, Int
 - 📚 Sempre buscando aprender algo novo
 
 
-## 🛠️ Tecnologias
+## 🛠️ Habilidades
 
 <div align="left">
 
-<img src="https://skillicons.dev/icons?i=python,java,js,html,css,tailwind&theme=dark">
+<img src="https://skillicons.dev/icons?i=java,python,js,html,css,tailwind,git,github&theme=dark">
 <br>
-<img src="https://skillicons.dev/icons?i=git,github,linux,arch,bash,windows&theme=dark">
-<br>
-<img src="https://skillicons.dev/icons?i=vscode,eclipse,pycharm,sublime,vim,figma&theme=dark">
-</div>
