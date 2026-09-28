@@ -12,7 +12,7 @@ Ao longo da minha trajetória, venho desenvolvendo conhecimentos em diferentes c
 
 ## 💼 Portfólio
 
-<a href="https://josejuniordev.com">josejuniordev.com</a>
+🌐 **[josejuniordev.com](https://josejuniordev.com)**
 
 ## 🚀 Sobre mim
 
