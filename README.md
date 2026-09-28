@@ -10,6 +10,9 @@ Meu objetivo é construir uma base técnica sólida para atuar profissionalmente
 
 Ao longo da minha trajetória, venho desenvolvendo conhecimentos em diferentes campos da tecnologia, como **Programação Orientada a Objetos, Estruturas de Dados, Banco de Dados, Inteligência Artificial e Machine Learning,** entre outros, conhecimentos que contribuem para minha formação como desenvolvedor. 
 
+## 💼 Portfólio
+
+<a href="https://josejuniordev.com">josejuniordev.com</a>
 
 ## 🚀 Sobre mim
 
